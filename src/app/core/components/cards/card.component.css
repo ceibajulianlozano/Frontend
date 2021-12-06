@@ -1,0 +1,40 @@
+a {
+  color: #808080;
+   text-decoration: none;
+}
+
+a:hover {
+  color: #1ea7fd;
+   text-decoration: none;
+}
+
+a:hover {
+  color: #1ea7fd;
+   text-decoration: none;
+}
+
+.planta {
+  height: 60px;
+  margin: 0 10px;
+  opacity: .5;
+  margin: 0 15px 0 0px;
+}
+
+.mapa {
+  height: 45px;
+  opacity: .5;
+  margin: 0 10px 0 -10px;
+}
+
+.card {
+  border-radius: 25px;
+}
+
+.card:hover{
+  transform: scale(1.02);
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.3);
+}
+
+.card-header {
+  border-radius: 25px 25px 0 0 !important;
+}
